@@ -1,8 +1,8 @@
 {
-  "name": "proyect1",
+  "name": "curso_javascript",
   "version": "1.0.0",
   "description": "Primer proyecto js del curso de OpenBootcamp",
-  "main": "index.js",
+  "main": "ejercicio1.js",
   "scripts": {
     "saludar": "node ejercicio1.js",
     "ejercicio2": "node ejercicio2.js",
